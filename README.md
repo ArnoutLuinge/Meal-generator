@@ -1,5 +1,5 @@
 # Meal-generator
-http://www.maaltijdgenerator.rf.gd
+[Maaltijdgenrator.rf.gd](http://www.maaltijdgenerator.rf.gd)
 
 A website that chooses a meal randomly so you don't have to stress choosing what to eat today.
 
