@@ -3,7 +3,8 @@
 
 ### Description
 A website that chooses a meal randomly so you don't have to stress choosing what to eat today.
-A rather simple html layout, and some kinda stylish css. This was my first javascript project that really worked. 
+A rather simple html layout, and some kinda stylish css. This was my first javascript project that really worked.
+It (sadly) is in dutch, as I know dutch meals and there ingedients etc a lot better
 
 ### Future plans
 I would like to an database to store all the meals with their corresponding ingedients, allergies and method of preperation.
