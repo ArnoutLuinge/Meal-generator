@@ -1,5 +1,5 @@
 # Meal-generator
-[Maaltijdgenrator.rf.gd](http://www.maaltijdgenerator.rf.gd) (wesite is down as of 18/08/2019)
+[Website](https://arnoutluinge.github.io/Meal-generator/)
 
 ### Description
 A website that chooses a meal randomly so you don't have to stress choosing what to eat today.
@@ -11,4 +11,4 @@ I would like to an database to store all the meals with their corresponding inge
 With the database users could add there own meals, and set them to public or private.
 You should be able to select certain allergies that generated meals should not include.
 
-WAS hosted by infinityfree.
+Hosted by Github pages.
